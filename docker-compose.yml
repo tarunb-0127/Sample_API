@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  mysql-container:
+    image: mysql:8.0
+    container_name: mysql-container
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: Password@12345
+      MYSQL_DATABASE: prodb
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+  webapi:
+    image: samplewebapi # Replace with your actual image name
+    container_name: webapi
+    depends_on:
+      - mysql-container
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+      ConnectionStrings__DefaultConnection: "server=mysql-container;port=3306;database=prodb;user=root;password=Password@12345"
+    ports:
+      - "5000:5000"
+
+volumes:
+  mysql_data:

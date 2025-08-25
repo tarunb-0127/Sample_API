@@ -261,3 +261,4 @@ D:\RIX_2024\L1\Jenkins\Sample_API\Sample_API\obj\Debug\net8.0\refint\Sample_API.
 D:\RIX_2024\L1\Jenkins\Sample_API\Sample_API\obj\Debug\net8.0\Sample_API.pdb
 D:\RIX_2024\L1\Jenkins\Sample_API\Sample_API\obj\Debug\net8.0\Sample_API.genruntimeconfig.cache
 D:\RIX_2024\L1\Jenkins\Sample_API\Sample_API\obj\Debug\net8.0\ref\Sample_API.dll
+D:\RIX_2024\L1\Jenkins\Sample_API\Sample_API\obj\Debug\net8.0\Sample_API.sourcelink.json

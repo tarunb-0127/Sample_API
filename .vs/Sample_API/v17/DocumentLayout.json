@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{E68C3792-820B-42B5-B164-35466C5A61A4}|Sample_API\\Sample_API.csproj|solutionrelative:sample_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\rix_2024\\l1\\jenkins\\sample_api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E984F8-7413-4B9B-9B61-618F79AD9D1C}|Sample_API.tests\\Sample_API.tests.csproj|d:\\rix_2024\\l1\\jenkins\\sample_api\\sample_api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E984F8-7413-4B9B-9B61-618F79AD9D1C}|Sample_API.tests\\Sample_API.tests.csproj|solutionrelative:sample_api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E984F8-7413-4B9B-9B61-618F79AD9D1C}|Sample_API.tests\\Sample_API.tests.csproj|d:\\rix_2024\\l1\\jenkins\\sample_api\\sample_api.tests\\sample_api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14E984F8-7413-4B9B-9B61-618F79AD9D1C}|Sample_API.tests\\Sample_API.tests.csproj|solutionrelative:sample_api.tests\\sample_api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E68C3792-820B-42B5-B164-35466C5A61A4}|Sample_API\\Sample_API.csproj|d:\\rix_2024\\l1\\jenkins\\sample_api\\sample_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E68C3792-820B-42B5-B164-35466C5A61A4}|Sample_API\\Sample_API.csproj|solutionrelative:sample_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\rix_2024\\l1\\jenkins\\sample_api\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E68C3792-820B-42B5-B164-35466C5A61A4}|Sample_API\\Sample_API.csproj|d:\\rix_2024\\l1\\jenkins\\sample_api\\sample_api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -25,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E68C3792-820B-42B5-B164-35466C5A61A4}|Sample_API\\Sample_API.csproj|d:\\rix_2024\\l1\\jenkins\\sample_api\\sample_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E68C3792-820B-42B5-B164-35466C5A61A4}|Sample_API\\Sample_API.csproj|solutionrelative:sample_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14E984F8-7413-4B9B-9B61-618F79AD9D1C}|Sample_API.tests\\Sample_API.tests.csproj|d:\\rix_2024\\l1\\jenkins\\sample_api\\sample_api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14E984F8-7413-4B9B-9B61-618F79AD9D1C}|Sample_API.tests\\Sample_API.tests.csproj|solutionrelative:sample_api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,32 +50,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Sample_API.tests",
+              "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API.tests\\Sample_API.tests.csproj",
+              "RelativeDocumentMoniker": "Sample_API.tests\\Sample_API.tests.csproj",
+              "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API.tests\\Sample_API.tests.csproj",
+              "RelativeToolTip": "Sample_API.tests\\Sample_API.tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T14:59:21.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-25T14:44:38.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose",
+              "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-25T14:44:35.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Dockerfile",
               "RelativeDocumentMoniker": "Sample_API\\Dockerfile",
               "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Dockerfile",
               "RelativeToolTip": "Sample_API\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-08-25T14:20:53.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Sample_API\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Sample_API\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T14:19:30.189Z",
               "EditorCaption": ""
             },
             {
@@ -74,53 +112,14 @@
               "RelativeDocumentMoniker": "Sample_API\\appsettings.json",
               "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\appsettings.json",
               "RelativeToolTip": "Sample_API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-25T14:17:20.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Program.cs",
-              "RelativeDocumentMoniker": "Sample_API\\Program.cs",
-              "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Program.cs",
-              "RelativeToolTip": "Sample_API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T14:15:45.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductDbContext.cs",
-              "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Data\\ProductDbContext.cs",
-              "RelativeDocumentMoniker": "Sample_API\\Data\\ProductDbContext.cs",
-              "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Data\\ProductDbContext.cs",
-              "RelativeToolTip": "Sample_API\\Data\\ProductDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T14:12:16.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Sample_API\\Models\\Product.cs",
-              "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Models\\Product.cs",
-              "RelativeToolTip": "Sample_API\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T14:11:28.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API.tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Sample_API.tests\\UnitTest1.cs",
@@ -132,8 +131,57 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Sample_API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Sample_API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:19:30.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Program.cs",
+              "RelativeDocumentMoniker": "Sample_API\\Program.cs",
+              "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Program.cs",
+              "RelativeToolTip": "Sample_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:15:45.312Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Sample_API\\Data\\ProductDbContext.cs",
+              "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "Sample_API\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:12:16.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Sample_API\\Models\\Product.cs",
+              "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\Sample_API\\Sample_API\\Models\\Product.cs",
+              "RelativeToolTip": "Sample_API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:11:28.297Z"
             }
           ]
         }
