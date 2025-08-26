@@ -14,7 +14,9 @@ services:
       - mysql_data:/var/lib/mysql
 
   webapi:
-    image: samplewebapi # Replace with your actual image name
+    build:
+      context: ./Sample_API         # Path to your .NET Web API project
+      dockerfile: Dockerfile    # Ensure this Dockerfile exists in the context folder
     container_name: webapi
     depends_on:
       - mysql-container
@@ -23,6 +25,7 @@ services:
       ConnectionStrings__DefaultConnection: "server=mysql-container;port=3306;database=prodb;user=root;password=Password@12345"
     ports:
       - "5000:5000"
+    restart: always
 
 volumes:
   mysql_data:

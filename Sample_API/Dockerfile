@@ -6,9 +6,12 @@ RUN dotnet restore
 COPY . .
 RUN dotnet publish -c Release -o /out /p:UseAppHost=false
 
+ENV ASPNETCORE_URLS=http://+:5000
+
 # Runtime image
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
 EXPOSE 5000
 COPY --from=build /out .
 ENTRYPOINT ["dotnet", "Sample_API.dll"]
+

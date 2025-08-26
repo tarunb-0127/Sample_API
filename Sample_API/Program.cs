@@ -3,6 +3,8 @@ using Sample_API.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+builder.WebHost.UseUrls("http://+:5000");
 // Add services to the container.
 
 builder.Services.AddControllers();
